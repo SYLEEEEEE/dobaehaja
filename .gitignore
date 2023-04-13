@@ -1,0 +1,11 @@
+#for data
+*/test/
+*/train/
+
+#for mac
+*/.DS_Store
+.DS_Store
+
+#for jupyter notebook
+*/.ipynb_checkpoints/
+.ipynb_checkpoints/
