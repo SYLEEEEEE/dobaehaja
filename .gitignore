@@ -1,6 +1,6 @@
 #for data
-*/test/
-*/train/
+/test/**
+/train/**
 
 #for mac
 */.DS_Store
